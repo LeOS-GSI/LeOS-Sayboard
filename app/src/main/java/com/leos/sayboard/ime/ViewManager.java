@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.ime;
+package com.leos.sayboard.ime;
 
 import android.annotation.SuppressLint;
 import android.content.res.ColorStateList;
@@ -18,9 +18,9 @@ import androidx.core.widget.TextViewCompat;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.Observer;
 
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.ime.recognizers.RecognizerState;
-import com.elishaazaria.sayboard.preferences.UIPreferences;
+import com.leos.sayboard.R;
+import com.leos.sayboard.ime.recognizers.RecognizerState;
+import com.leos.sayboard.preferences.UIPreferences;
 
 public class ViewManager implements Observer<RecognizerState> {
     private final IME ime;

@@ -2,7 +2,7 @@
  * org.vosk.SpeechService, extended to support other recognizers.
  */
 
-package com.elishaazaria.sayboard.ime;
+package com.leos.sayboard.ime;
 
 import android.media.AudioRecord;
 import android.media.MediaRecorder;
@@ -11,7 +11,7 @@ import android.os.Looper;
 
 import androidx.annotation.RequiresPermission;
 
-import com.elishaazaria.sayboard.ime.recognizers.Recognizer;
+import com.leos.sayboard.ime.recognizers.Recognizer;
 
 import java.io.IOException;
 

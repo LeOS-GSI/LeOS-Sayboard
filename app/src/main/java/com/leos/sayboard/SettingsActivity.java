@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard;
+package com.leos.sayboard;
 
 import android.os.Bundle;
 import android.view.View;
@@ -9,7 +9,7 @@ import androidx.navigation.fragment.NavHostFragment;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.elishaazaria.sayboard.databinding.ActivitySettingsBinding;
+import com.leos.sayboard.databinding.ActivitySettingsBinding;
 
 public class SettingsActivity extends AppCompatActivity {
 

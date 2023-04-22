@@ -1,8 +1,8 @@
-package com.elishaazaria.sayboard.data;
+package com.leos.sayboard.data;
 
 import androidx.annotation.StringRes;
 
-import com.elishaazaria.sayboard.R;
+import com.leos.sayboard.R;
 
 import java.util.Locale;
 

@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.ime;
+package com.leos.sayboard.ime;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,8 +11,8 @@ import android.view.inputmethod.ExtractedTextRequest;
 import android.view.inputmethod.InputConnection;
 import android.view.inputmethod.InputMethodManager;
 
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.SettingsActivity;
+import com.leos.sayboard.R;
+import com.leos.sayboard.SettingsActivity;
 
 public class ActionManager {
 

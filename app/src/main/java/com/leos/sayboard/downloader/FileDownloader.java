@@ -1,11 +1,11 @@
-package com.elishaazaria.sayboard.downloader;
+package com.leos.sayboard.downloader;
 
 import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 
-import com.elishaazaria.sayboard.data.ModelLink;
-import com.elishaazaria.sayboard.downloader.messages.ModelInfo;
+import com.leos.sayboard.data.ModelLink;
+import com.leos.sayboard.downloader.messages.ModelInfo;
 
 import java.util.Locale;
 

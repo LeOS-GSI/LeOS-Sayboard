@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package com.elishaazaria.sayboard.ime;
+package com.leos.sayboard.ime;
 
 import android.Manifest;
 import android.app.Dialog;
@@ -34,9 +34,9 @@ import org.vosk.LibVosk;
 import org.vosk.LogLevel;
 import org.vosk.android.RecognitionListener;
 
-import com.elishaazaria.sayboard.BuildConfig;
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.preferences.LogicPreferences;
+import com.leos.sayboard.BuildConfig;
+import com.leos.sayboard.R;
+import com.leos.sayboard.preferences.LogicPreferences;
 
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;

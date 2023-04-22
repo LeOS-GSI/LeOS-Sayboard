@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard;
+package com.leos.sayboard;
 
 import android.Manifest;
 import android.app.Activity;
@@ -12,9 +12,9 @@ import android.view.inputmethod.InputMethodManager;
 
 import androidx.core.content.ContextCompat;
 
-import com.elishaazaria.sayboard.data.LocalModel;
-import com.elishaazaria.sayboard.data.ModelLink;
-import com.elishaazaria.sayboard.settingsfragments.modelsfragment.ModelsAdapterLocalData;
+import com.leos.sayboard.data.LocalModel;
+import com.leos.sayboard.data.ModelLink;
+import com.leos.sayboard.settingsfragments.modelsfragment.ModelsAdapterLocalData;
 
 import java.io.File;
 import java.util.ArrayList;

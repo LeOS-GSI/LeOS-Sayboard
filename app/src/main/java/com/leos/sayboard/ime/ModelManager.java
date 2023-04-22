@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.ime;
+package com.leos.sayboard.ime;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -6,14 +6,14 @@ import android.content.pm.PackageManager;
 import androidx.core.app.ActivityCompat;
 import androidx.lifecycle.Observer;
 
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.ime.recognizers.Recognizer;
-import com.elishaazaria.sayboard.ime.recognizers.RecognizerSource;
-import com.elishaazaria.sayboard.ime.recognizers.providers.RecognizerSourceProvider;
-import com.elishaazaria.sayboard.ime.recognizers.providers.VoskLocalProvider;
-import com.elishaazaria.sayboard.ime.recognizers.providers.VoskServerProvider;
-import com.elishaazaria.sayboard.preferences.LogicPreferences;
-import com.elishaazaria.sayboard.preferences.ModelPreferences;
+import com.leos.sayboard.R;
+import com.leos.sayboard.ime.recognizers.Recognizer;
+import com.leos.sayboard.ime.recognizers.RecognizerSource;
+import com.leos.sayboard.ime.recognizers.providers.RecognizerSourceProvider;
+import com.leos.sayboard.ime.recognizers.providers.VoskLocalProvider;
+import com.leos.sayboard.ime.recognizers.providers.VoskServerProvider;
+import com.leos.sayboard.preferences.LogicPreferences;
+import com.leos.sayboard.preferences.ModelPreferences;
 
 import java.io.IOException;
 import java.util.ArrayList;

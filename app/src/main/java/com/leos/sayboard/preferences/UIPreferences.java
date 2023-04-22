@@ -1,12 +1,12 @@
-package com.elishaazaria.sayboard.preferences;
+package com.leos.sayboard.preferences;
 
 import android.content.Context;
 import android.os.Build;
 
 import androidx.core.content.ContextCompat;
 
-import com.elishaazaria.sayboard.AppCtx;
-import com.elishaazaria.sayboard.R;
+import com.leos.sayboard.AppCtx;
+import com.leos.sayboard.R;
 
 public class UIPreferences {
     public static boolean isForegroundMaterialYou(boolean dark) {

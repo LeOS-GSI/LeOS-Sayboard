@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.data;
+package com.leos.sayboard.data;
 
 import java.io.Serializable;
 import java.net.URI;

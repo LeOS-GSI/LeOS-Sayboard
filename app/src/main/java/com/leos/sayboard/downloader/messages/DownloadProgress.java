@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.downloader.messages;
+package com.leos.sayboard.downloader.messages;
 
 public class DownloadProgress {
     public final ModelInfo info;

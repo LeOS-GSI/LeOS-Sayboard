@@ -1,10 +1,10 @@
-package com.elishaazaria.sayboard.downloader;
+package com.leos.sayboard.downloader;
 
 import android.util.Log;
 
 import androidx.lifecycle.Observer;
 
-import com.elishaazaria.sayboard.Tools;
+import com.leos.sayboard.Tools;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

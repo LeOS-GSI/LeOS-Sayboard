@@ -1,7 +1,7 @@
-package com.elishaazaria.sayboard.preferences;
+package com.leos.sayboard.preferences;
 
-import com.elishaazaria.sayboard.AppCtx;
-import com.elishaazaria.sayboard.R;
+import com.leos.sayboard.AppCtx;
+import com.leos.sayboard.R;
 
 public class LogicPreferences {
     public static final int KEEP_SCREEN_AWAKE_NEVER = 0;

@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.settingsfragments.modelsfragment;
+package com.leos.sayboard.settingsfragments.modelsfragment;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
-import com.elishaazaria.sayboard.R;
+import com.leos.sayboard.R;
 
 import java.net.URI;
 import java.net.URISyntaxException;

@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.ime;
+package com.leos.sayboard.ime;
 
 import android.os.Build;
 import android.util.Log;

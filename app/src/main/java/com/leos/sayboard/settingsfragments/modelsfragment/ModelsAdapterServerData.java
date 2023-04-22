@@ -1,10 +1,10 @@
-package com.elishaazaria.sayboard.settingsfragments.modelsfragment;
+package com.leos.sayboard.settingsfragments.modelsfragment;
 
 import android.content.Context;
 
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.data.VoskServerData;
-import com.elishaazaria.sayboard.preferences.ModelPreferences;
+import com.leos.sayboard.R;
+import com.leos.sayboard.data.VoskServerData;
+import com.leos.sayboard.preferences.ModelPreferences;
 
 public class ModelsAdapterServerData implements ModelsAdapterData {
     private final VoskServerData data;

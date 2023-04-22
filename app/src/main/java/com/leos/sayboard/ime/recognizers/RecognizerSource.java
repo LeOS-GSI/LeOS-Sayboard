@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.ime.recognizers;
+package com.leos.sayboard.ime.recognizers;
 
 import androidx.annotation.StringRes;
 import androidx.lifecycle.LiveData;

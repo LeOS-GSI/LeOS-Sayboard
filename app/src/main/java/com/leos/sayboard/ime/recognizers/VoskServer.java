@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.ime.recognizers;
+package com.leos.sayboard.ime.recognizers;
 
 import android.os.Debug;
 import android.util.Log;
@@ -7,7 +7,7 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.Observer;
 
-import com.elishaazaria.sayboard.data.VoskServerData;
+import com.leos.sayboard.data.VoskServerData;
 import com.google.protobuf.ByteString;
 
 import java.net.URI;

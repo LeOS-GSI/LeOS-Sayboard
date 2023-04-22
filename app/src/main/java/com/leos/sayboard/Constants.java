@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard;
+package com.leos.sayboard;
 
 import android.content.Context;
 import android.os.Environment;

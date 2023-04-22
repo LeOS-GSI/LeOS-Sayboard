@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard;
+package com.leos.sayboard;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

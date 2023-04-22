@@ -18,7 +18,7 @@
         tools:targetApi="s">
 
         <service
-            android:name="com.elishaazaria.sayboard.ime.IME"
+            android:name="com.leos.sayboard.ime.IME"
             android:exported="true"
             android:label="@string/app_name"
             android:permission="android.permission.BIND_INPUT_METHOD">
@@ -32,7 +32,7 @@
         </service>
 
         <activity
-            android:name="com.elishaazaria.sayboard.SettingsActivity"
+            android:name="com.leos.sayboard.SettingsActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,7 +42,7 @@
         </activity>
 
         <service
-            android:name="com.elishaazaria.sayboard.downloader.FileDownloadService"
+            android:name="com.leos.sayboard.downloader.FileDownloadService"
             android:enabled="true" />
     </application>
 

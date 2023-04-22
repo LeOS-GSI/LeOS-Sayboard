@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.ime.recognizers;
+package com.leos.sayboard.ime.recognizers;
 
 import android.os.Handler;
 import android.os.Looper;
@@ -7,7 +7,7 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.Observer;
 
-import com.elishaazaria.sayboard.data.LocalModel;
+import com.leos.sayboard.data.LocalModel;
 
 import org.json.JSONException;
 import org.json.JSONObject;

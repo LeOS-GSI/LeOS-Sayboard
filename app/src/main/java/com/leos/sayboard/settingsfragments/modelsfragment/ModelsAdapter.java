@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.settingsfragments.modelsfragment;
+package com.leos.sayboard.settingsfragments.modelsfragment;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.downloader.messages.ModelInfo;
+import com.leos.sayboard.R;
+import com.leos.sayboard.downloader.messages.ModelInfo;
 
 import java.util.ArrayList;
 import java.util.List;

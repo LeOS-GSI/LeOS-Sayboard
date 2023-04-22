@@ -1,6 +1,6 @@
-package com.elishaazaria.sayboard.ime.recognizers.providers;
+package com.leos.sayboard.ime.recognizers.providers;
 
-import com.elishaazaria.sayboard.ime.recognizers.RecognizerSource;
+import com.leos.sayboard.ime.recognizers.RecognizerSource;
 
 import java.util.List;
 

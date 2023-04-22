@@ -1,12 +1,12 @@
-package com.elishaazaria.sayboard.settingsfragments.modelsfragment;
+package com.leos.sayboard.settingsfragments.modelsfragment;
 
 import android.content.Context;
 
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.Tools;
-import com.elishaazaria.sayboard.data.LocalModel;
-import com.elishaazaria.sayboard.data.ModelLink;
-import com.elishaazaria.sayboard.downloader.FileDownloader;
+import com.leos.sayboard.R;
+import com.leos.sayboard.Tools;
+import com.leos.sayboard.data.LocalModel;
+import com.leos.sayboard.data.ModelLink;
+import com.leos.sayboard.downloader.FileDownloader;
 
 import java.util.Locale;
 

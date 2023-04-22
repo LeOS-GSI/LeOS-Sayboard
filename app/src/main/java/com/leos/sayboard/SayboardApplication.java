@@ -1,11 +1,11 @@
-package com.elishaazaria.sayboard;
+package com.leos.sayboard;
 
 import android.app.Application;
 import android.content.Context;
 
 import androidx.annotation.StringRes;
 
-import com.elishaazaria.sayboard.preferences.MyPreferences;
+import com.leos.sayboard.preferences.MyPreferences;
 
 import org.greenrobot.eventbus.EventBus;
 

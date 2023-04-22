@@ -1,8 +1,8 @@
-package com.elishaazaria.sayboard.preferences;
+package com.leos.sayboard.preferences;
 
-import com.elishaazaria.sayboard.AppCtx;
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.data.VoskServerData;
+import com.leos.sayboard.AppCtx;
+import com.leos.sayboard.R;
+import com.leos.sayboard.data.VoskServerData;
 
 import java.util.ArrayList;
 import java.util.Collections;

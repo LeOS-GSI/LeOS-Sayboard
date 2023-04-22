@@ -1,4 +1,4 @@
-package com.elishaazaria.sayboard.settingsfragments;
+package com.leos.sayboard.settingsfragments;
 
 import android.Manifest;
 import android.content.Intent;
@@ -12,10 +12,10 @@ import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
 import androidx.fragment.app.Fragment;
 
-import com.elishaazaria.sayboard.R;
-import com.elishaazaria.sayboard.SettingsActivity;
-import com.elishaazaria.sayboard.Tools;
-import com.elishaazaria.sayboard.databinding.FragmentSetupBinding;
+import com.leos.sayboard.R;
+import com.leos.sayboard.SettingsActivity;
+import com.leos.sayboard.Tools;
+import com.leos.sayboard.databinding.FragmentSetupBinding;
 
 public class SetupFragment extends Fragment {
     /* Used to handle permission request */
